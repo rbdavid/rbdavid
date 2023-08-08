@@ -1,5 +1,5 @@
 <h1 align="center">Russell B. Davidson, PhD</h1>
-<h3 align="center">Computational Chemist, Biophysicist, Nerd</h3>
+<h3 align="center">Computational Chemist, Biophysicist, Geek</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rbdavid&label=Profile%20views&color=0e75b6&style=flat" alt="rbdavid" /> </p>
 
@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/RBDchemistry" target="blank"><img src="https://img.shields.io/twitter/follow/RBDchemistry?logo=twitter&style=for-the-badge" alt="RBDchemistry" /></a> </p>
 
-- 🔭 I’m currently working on  **...**
+- 🔭 I’m currently working on  **visualization and modeling of protein structures** as well as **scientific workflow development**
 
-- 👯 I’m looking to collaborate on molecular modeling and workflow development. 
+- 👯 I’m looking to collaborate on science projects you might have. Feel free to reach out to me to discuss!
 
 - 💬 Ask me about **protein structure, molecular dynamic simulations, and scientific workflows**
 
-- 📫 How to reach me **rbdchemistry@gmail.com**
+- 📫 How to reach me **rbdchemistry at gmail.com**
 
 - 😄 Pronouns: He/Him
 
